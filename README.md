@@ -14,10 +14,18 @@
 ![Swift](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-blue?style=plastic&logo=xcode&logoColor=white)
 
-* Mobile Developer
+* Mobile Developer.
 * Technical degree on mobile applications development. UNLaM (Argentina)
-* 3 years of experience with Kotlin Native developments.
-* Currently learning and working with Swift Native developments.
+* Creating apps since 2020.
+* Currently learning Swift and SwiftUI.
+
+# Currently working at:
+
+* Tempedia
+
+# Next projects:
+
+* Tempedia iOS
 
 ## GitHub Stats
 
