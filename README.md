@@ -19,7 +19,7 @@
 * Creating apps since 2020.
 * Currently learning Swift and SwiftUI.
 
-<div style="padding-top: 20px; padding-bottom: 20px;">
+<br><br>
 
 ### Currently working at:
 
@@ -29,7 +29,7 @@
 
 * Tempedia iOS
 
-</div>
+<br><br>
 
 ## GitHub Stats
 
