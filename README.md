@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=plastic&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Green?style=plastic&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-orange?style=plastic&logo=apple&logoColor=white)
