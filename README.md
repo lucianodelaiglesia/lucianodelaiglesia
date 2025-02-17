@@ -19,13 +19,17 @@
 * Creating apps since 2020.
 * Currently learning Swift and SwiftUI.
 
-# Currently working at:
+<div { padding: 100px 0 }>
+
+### Currently working at:
 
 * Tempedia
 
-# Next projects:
+### Next projects:
 
 * Tempedia iOS
+
+</div>
 
 ## GitHub Stats
 
