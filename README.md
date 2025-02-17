@@ -1,6 +1,14 @@
+<div align="center">
+
 ## Hi there 👋
 
-##  About me:
+</div>
+
+<div align="center">
+
+## About me:
+
+</div>
 
 Mobile Developer.
 Technical degree on mobile applications development. UNLaM (Argentina)
@@ -15,7 +23,11 @@ Currently learning and working with Swift Native developments.
 ![Swift](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-blue?style=plastic&logo=xcode&logoColor=white)
 
-##  GitHub Stats
+<div align="center">
+
+## GitHub Stats
+
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianodelaiglesia&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodelaiglesia&layout=compact&theme=transparent)
