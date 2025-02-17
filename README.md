@@ -3,6 +3,7 @@
 ## Hi there, I'm Luciano 👋
 
 </div>
+<br>
 
 ## About me:
 
@@ -19,17 +20,29 @@
 * Creating apps since 2020.
 * Currently learning Swift and SwiftUI.
 
-<br><br>
+<br>
 
 ### Currently working at:
 
-* Tempedia
+![Android](https://img.shields.io/badge/Android-Green?style=plastic&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=plastic&logo=kotlin&logoColor=white)
+* [Tempedia](https://github.com/lucianodelaiglesia/Tempedia)
 
 ### Next projects:
 
-* Tempedia iOS
+![iOS](https://img.shields.io/badge/iOS-orange?style=plastic&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white)
+* [Tempedia iOS](https://github.com/lucianodelaiglesia/Tempedia-iOS)
 
-<br><br>
+<br>
+
+### Projects I made or participated in at university:
+
+* [NurAlignMobile](https://github.com/ailenaguino/NurAlignMobile) : Final degree project. Daily tracker for bipolar people.
+* [PokedexTP](https://github.com/lucianodelaiglesia/PokedexTP) : Mid degree project. Pokedex using Kotlin Multiplatform, Kotlin and Swift.
+* [NOHA](https://github.com/suracelucas/NOHA) : Early degree project. Hotel activities manager.
+
+<br>
 
 ## GitHub Stats
 
