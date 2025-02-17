@@ -22,7 +22,7 @@
 
 <br>
 
-### 🔨 Currently working at:
+### 🔨 Currently developing:
 
 ![Android](https://img.shields.io/badge/Android-Green?style=plastic&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=plastic&logo=kotlin&logoColor=white)
