@@ -6,11 +6,10 @@
 
 ## About me:
 
-
-Mobile Developer.
-Technical degree on mobile applications development. UNLaM (Argentina)
-3 years of experience with Kotlin Native developments.
-Currently learning and working with Swift Native developments.
+* Mobile Developer
+* Technical degree on mobile applications development. UNLaM (Argentina)
+* 3 years of experience with Kotlin Native developments.
+* Currently learning and working with Swift Native developments.
 
 ![Android](https://img.shields.io/badge/Android-Green?style=plastic&logo=android&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-limegreen?style=plastic&logo=androidstudio&logoColor=white)
