@@ -21,5 +21,7 @@
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianodelaiglesia&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodelaiglesia&layout=compact&theme=transparent)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lucianodelaiglesia&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" style="margin: 0 10px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodelaiglesia&layout=compact&theme=transparent" alt="Top Langs" style="margin: 0 10px;">
+</div>
