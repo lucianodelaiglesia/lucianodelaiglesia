@@ -19,7 +19,7 @@
 * Creating apps since 2020.
 * Currently learning Swift and SwiftUI.
 
-<div { padding: 100px 0 }>
+<div style="padding-top: 20px; padding-bottom: 20px">
 
 ### Currently working at:
 
