@@ -5,7 +5,7 @@
 </div>
 <br>
 
-## About me:
+## 🙋🏻‍♂️ About me:
 
 ![Android](https://img.shields.io/badge/Android-Green?style=plastic&logo=android&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-limegreen?style=plastic&logo=androidstudio&logoColor=white)
@@ -22,13 +22,13 @@
 
 <br>
 
-### Currently working at:
+### 🔨 Currently working at:
 
 ![Android](https://img.shields.io/badge/Android-Green?style=plastic&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=plastic&logo=kotlin&logoColor=white)
 * [Tempedia](https://github.com/lucianodelaiglesia/Tempedia)
 
-### Next projects:
+### 🔜 Next projects:
 
 ![iOS](https://img.shields.io/badge/iOS-orange?style=plastic&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white)
@@ -36,7 +36,7 @@
 
 <br>
 
-### Projects I made or participated in at university:
+### 👨🏻‍🎓 Projects I made or participated in at university:
 
 * [NurAlignMobile](https://github.com/ailenaguino/NurAlignMobile) : Final degree project. Daily tracker for bipolar people.
 * [PokedexTP](https://github.com/lucianodelaiglesia/PokedexTP) : Mid degree project. Pokedex using Kotlin Multiplatform, Kotlin and Swift.
@@ -44,7 +44,7 @@
 
 <br>
 
-## GitHub Stats
+## ⚙️ GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lucianodelaiglesia&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" style="margin: 0 10px;">
