@@ -28,6 +28,10 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=plastic&logo=kotlin&logoColor=white)
 * [Tempedia](https://github.com/lucianodelaiglesia/Tempedia)
 
+![NestJS](https://img.shields.io/badge/NestJS-white?style=plastic&logo=nestjs&logoColor=e0234e)
+![React](https://img.shields.io/badge/React-222222?style=plastic&logo=react&logoColor=00d8ff)
+* [PrismaWeb](https://github.com/lucianodelaiglesia/PrismaWeb)
+
 ### 🔜 Next projects:
 
 ![iOS](https://img.shields.io/badge/iOS-orange?style=plastic&logo=apple&logoColor=white)
