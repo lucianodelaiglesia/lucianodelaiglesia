@@ -14,11 +14,17 @@
 ![iOS](https://img.shields.io/badge/iOS-orange?style=plastic&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-blue?style=plastic&logo=xcode&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-white?style=plastic&logo=nestjs&logoColor=e0234e)
+![React](https://img.shields.io/badge/React-222222?style=plastic&logo=react&logoColor=00d8ff)
+![OracleJET](https://img.shields.io/badge/OracleJET-F80000?style=plastic&logo=oracle&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white)
 
 * Mobile Developer.
 * Technical degree on mobile applications development. UNLaM (Argentina)
 * Creating apps since 2020.
 * Currently learning Swift and SwiftUI.
+* Currently working as a Fullstack Developer for an external client, using React, Oracle Jet, NestJS, NodeJS and GraphQL.
 
 <br>
 
@@ -26,7 +32,14 @@
 
 ![Android](https://img.shields.io/badge/Android-Green?style=plastic&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=plastic&logo=kotlin&logoColor=white)
-* [Tempedia](https://github.com/lucianodelaiglesia/Tempedia)
+
+<p align="left">
+  <a href="https://github.com/lucianodelaiglesia/tempedia">
+    <img src="./assets/tempedia.gif" alt="Tempedia goto" width=400>
+  </a>
+</p>
+
+<br>
 
 ![NestJS](https://img.shields.io/badge/NestJS-white?style=plastic&logo=nestjs&logoColor=e0234e)
 ![React](https://img.shields.io/badge/React-222222?style=plastic&logo=react&logoColor=00d8ff)
@@ -37,6 +50,13 @@
 ![iOS](https://img.shields.io/badge/iOS-orange?style=plastic&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white)
 * [Tempedia iOS](https://github.com/lucianodelaiglesia/Tempedia-iOS)
+
+<br>
+
+### 🛡️ MeyrForge projects (my startup!):
+
+* [TomaBien](https://github.com/MeyrForge/TomaBien)  A medication tracker 💊⌚
+* [PolarSync](https://github.com/MeyrForge/PolarSync)  Under Construction 🚧🔜
 
 <br>
 
