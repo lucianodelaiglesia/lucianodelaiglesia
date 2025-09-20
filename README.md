@@ -36,7 +36,7 @@
 <p align="left">
   <a href="https://github.com/lucianodelaiglesia/tempedia">
     <img src="./assets/tempedia.gif" alt="Tempedia goto" width=400>
-  </a>
+  </a>
 </p>
 
 <br>
