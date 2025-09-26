@@ -53,7 +53,7 @@
 
 <br>
 
-### 🛡️ MeyrForge projects (my startup!):
+### 🛡️ <a href="https://meyrforge.netlify.app/" target="_blank" rel="noopener noreferrer">MeyrForge</a> projects (my startup!):
 
 * [TomaBien](https://github.com/MeyrForge/TomaBien)  A medication tracker 💊⌚
 * [PolarSync](https://github.com/MeyrForge/PolarSync)  Under Construction 🚧🔜
