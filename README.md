@@ -20,11 +20,12 @@
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white)
 
-* Mobile Developer.
-* Technical degree on mobile applications development. UNLaM (Argentina)
-* Creating apps since 2020.
-* Currently learning Swift and SwiftUI.
-* Currently working as a Fullstack Developer for an external client, using React, Oracle Jet, NestJS, NodeJS and GraphQL.
+- Fullstack & Mobile Developer.
+- Technical degree in Mobile Applications Development (UNLaM, Argentina).
+- Building apps since 2020.
+- Currently working as a Fullstack Developer using **NestJS / Node.js**, **React**, **Oracle JET**, **REST APIs**, **PostgreSQL** and **GraphDB**.
+- Experience with **BI / data** (OTBI, Power BI) and automation of internal processes.
+- I enjoy learning new technologies, sharing knowledge and improving the way we build software.
 
 <br>
 
