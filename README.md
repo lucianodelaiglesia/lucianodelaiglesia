@@ -8,17 +8,18 @@
 ## 🙋🏻‍♂️ About me:
 
 ![Android](https://img.shields.io/badge/Android-Green?style=plastic&logo=android&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-limegreen?style=plastic&logo=androidstudio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=plastic&logo=kotlin&logoColor=white)
 ![JetpackCompose](https://img.shields.io/badge/JetpackCompose-deepskyblue?style=plastic&logo=jetpackcompose&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-orange?style=plastic&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-orange?style=plastic&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-blue?style=plastic&logo=xcode&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=plastic&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-white?style=plastic&logo=nestjs&logoColor=e0234e)
 ![React](https://img.shields.io/badge/React-222222?style=plastic&logo=react&logoColor=00d8ff)
 ![OracleJET](https://img.shields.io/badge/OracleJET-F80000?style=plastic&logo=oracle&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=plastic&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
+![GraphDB](https://img.shields.io/badge/GraphDB-ff69b4?style=plastic&logo=graphql&logoColor=white)
 
 - Fullstack & Mobile Developer.
 - Technical degree in Mobile Applications Development (UNLaM, Argentina).
